@@ -49,7 +49,7 @@ Key Features:
 - Sales breakdown by category and pizza size
 - Top & bottom-performing pizzas
 - Time-series analysis (daily & monthly trends) 
-👉 (Include dashboard screenshots or GIFs here for stronger impact)
+👉 (Include dashboard screenshots or GIFs here for stronger impact).
 ## Strategic Insights & Findings
 1. Customer Spending Habits: Average spend per order is modest, but large pizzas
 dominate sales, pointing to group-based consumption.
