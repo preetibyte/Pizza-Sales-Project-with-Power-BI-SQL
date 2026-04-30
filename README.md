@@ -48,7 +48,8 @@ Key Features:
 - KPI Cards: Total Revenue, Total Orders, Average Order Value
 - Sales breakdown by category and pizza size
 - Top & bottom-performing pizzas
-- Time-series analysis (daily & monthly trends) 
+- Time-series analysis (daily & monthly trends)
+- <a href = "https://github.com/preetibyte/Pizza-Sales-Project-with-Power-BI-SQL/blob/main/Pizza_Sales_Home_Dashboard.pdf" > Home Dashboard </a
 👉 (Include dashboard screenshots or GIFs here for stronger impact).
 ## Strategic Insights & Findings
 1. Customer Spending Habits: Average spend per order is modest, but large pizzas
