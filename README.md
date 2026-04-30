@@ -28,9 +28,8 @@ The dataset includes:
 - Top 5 best-selling pizzas
 - Revenue contribution by category and size
 - Orders distribution by time (day)
-- Monthly sales trends
-
-  ## Power BI Workflow
+- Monthly sales trends  
+## Power BI Workflow
 After extracting insights using SQL, the dataset was loaded into Power BI for visualization.
 Steps Followed
 1. Connecting the Data
