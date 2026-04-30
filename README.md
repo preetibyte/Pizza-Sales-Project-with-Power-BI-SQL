@@ -39,10 +39,9 @@ After extracting insights using SQL, the dataset was loaded into Power BI for vi
 - Created calculated columns such as Month Name and Day of Week for better grouping.
 4. Creating Measures
   Used DAX measures to replicate SQL insights:
-  ■ Total Revenue = SUM(total_price)
-  ■ Avg Order Value = DIVIDE([Total Revenue],DISTINCTCOUNT(order_id))
-  ■ Total Orders = DISTINCTCOUNT(order_id)
-  
+  - Total Revenue = SUM(total_price)
+  - Avg Order Value = DIVIDE([Total Revenue],DISTINCTCOUNT(order_id))
+  - Total Orders = DISTINCTCOUNT(order_id)
 ## Dashboard (Power BI)
 An interactive dashboard was developed to present insights in a clear and business-friendly format.
 Key Features:  
@@ -78,17 +77,15 @@ This analysis can help stakeholders:
 4.	Data Modeling (Power BI) 
 5.	Dashboard Development 
 6.	Insight Generation & Storytelling 
-## Key Skills Demonstrated
-•	Advanced SQL (joins, aggregations, window functions) 
-•	Data modeling and relational schema understanding 
-•	Data visualization and dashboard design (Power BI) 
-•	Business insight generation and storytelling 
-•	Analytical thinking and problem-solving
-•	Learned how to convert raw data into business insights 
-
-
-Lessons Learned and Challenges Faced
-Lessons Learned
+## Key Skills Demonstrated  
+- Advanced SQL (joins, aggregations, window functions)
+- Data modeling and relational schema understanding
+- Data visualization and dashboard design (Power BI)
+- Business insight generation and storytelling
+- Analytical thinking and problem-solving
+- Learned how to convert raw data into business insights 
+## Learnings and Challenges
+### Learnings
 1. SQL is powerful for groundwork: Performing calculations in SQL before loading into
 Power BI reduces complexity.
 2. Data cleaning is crucial: Small inconsistencies in dates and categories can affect
