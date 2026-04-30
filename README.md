@@ -1,7 +1,7 @@
 # Pizza-Sales-Project-with-Power-BI-SQL  
 ## Project Overview  
 In this pizza sales case study, we dive into the numbers behind the orders, examining key metrics like sales volume, revenue generation, and customer preferences. From identifying the most popular pizza types to understanding peak order times, this analysis provides crucial insights for better business decisions. The data not only reveals which pizzas are driving the highest revenue but also highlights trends in pizza sizes and category preferences, offering valuable takeaways for optimizing inventory, staffing, and menu offerings.  
-## Business Objective  
+## Objective  
 - Evaluate overall sales and revenue performance.
 - Identify top-performing and underperforming products.
 - Analyze customer demand patterns across time.
