@@ -16,5 +16,18 @@ The dataset includes:
 - Orders data (date, time, order ID)
 - Pizza details (name, category, size)
 - Order details (quantity, price)
+## Data Processing & SQL Workflow  
+Key steps performed in SQL:  
+- Data validation and consistency checks
+- Joining multiple tables to create a unified dataset
+- Aggregations for revenue and order metrics
+- Time-based analysis (daily, monthly trends)
+- Ranking and window functions to identify top products 
+Key queries performed in SQL:
+- Total revenue calculation
+- Top 5 best-selling pizzas
+- Revenue contribution by category and size
+- Orders distribution by time (day)
+- Monthly sales trends 
 
 
