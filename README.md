@@ -90,20 +90,17 @@ This analysis can help stakeholders:
 Power BI reduces complexity.
 2. Data cleaning is crucial: Small inconsistencies in dates and categories can affect
 analysis significantly.
-3. Visual storytelling matters: Stakeholders connect better with visuals (e.g., seeing
+3. Visual storytelling matters: Stakeholders connect better with visuals. Exa- seeing
 Friday is the busiest day.
-
-Challenges Faced
-
+### Challenges
 1. Performance Issues in Power BI: Large datasets sometimes slowed down visuals until
 aggregations were optimized in SQL.
 2. Choosing the right visuals: Presenting too much data cluttered the dashboard.
 Simplifying charts improved clarity.
-
-6. Conclusion
+## Conclusion
 This project highlighted how SQL and Power BI work hand-in-hand for effective business
 analysis. SQL ensured data accuracy and prepared the foundation, while Power BI brought the
-story to life visually. By combining both, i was able to uncover trends in customer behavior,
+story to life visually. By combining both, able to uncover trends in customer behavior,
 product performance, and revenue distribution, giving valuable insights to the pizza business for
 decision-making.
 
