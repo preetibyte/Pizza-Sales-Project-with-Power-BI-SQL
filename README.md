@@ -61,9 +61,9 @@ but Classics and Supremes are the most reliable drivers.
 5. Certain categories consistently outperform others, suggesting opportunities for menu optimization.
 6. Seasonal or monthly trends indicate fluctuations that can inform promotions and inventory planning.
 7. Opportunities:
-   ○ Upsell combos around large pizzas.
-   ○ Optimize underperforming pizzas (rebranding, discounts, or removal).
-   ○ Boost midweek sales (Monday–Wednesday) with special offers.
+   - Upsell combos around large pizzas.
+   - Optimize underperforming pizzas (rebranding, discounts, or removal).
+   - Boost midweek sales (Monday–Wednesday) with special offers.
 ## Business Impact
 This analysis can help stakeholders:  
 •	Optimize menu offerings by focusing on high-performing items.  
