@@ -30,15 +30,13 @@ The dataset includes:
 - Orders distribution by time (day)
 - Monthly sales trends  
 ## Power BI Workflow
-After extracting insights using SQL, the dataset was loaded into Power BI for visualization.
-Steps Followed
+After extracting insights using SQL, the dataset was loaded into Power BI for visualization.  
+Steps Followed    
 1. Connecting the Data
-○ Imported the dataset into Power BI directly from the SQL database.
-○ Verified data types (dates, floats, integers).
-2. Transformations in Power Query
-○ Created calculated columns such as Month Name and Day of Week for better
-grouping.
-
+- Imported the dataset into Power BI directly from the SQL database.
+2. Verified data types (dates, floats, integers).
+3. Transformations in Power Query
+- Created calculated columns such as Month Name and Day of Week for better grouping.
 Creating Measures
 
 ○ Used DAX measures to replicate SQL insights:
