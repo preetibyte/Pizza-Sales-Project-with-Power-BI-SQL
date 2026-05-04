@@ -50,9 +50,8 @@ Key Features:
 - Top & bottom-performing pizzas
 - Time-series analysis (daily & monthly trends)
 <img width="3226" height="1809" alt="file-1" src="https://github.com/user-attachments/assets/ec5ead23-e366-406e-ae3f-c7ef7955a6f1" />
+<img width="3226" height="1809" alt="file-1" src="https://github.com/user-attachments/assets/61b838b6-738d-4ba1-8dbc-5f535c2df12d" />
 
-- <a href = "https://github.com/preetibyte/Pizza-Sales-Project-with-Power-BI-SQL/blob/main/Pizza_Sales_Home_Dashboard.pdf" > Home Dashboard </a
-👉 (Include dashboard screenshots or GIFs here for stronger impact).
 ## Strategic Insights & Findings
 1. Customer Spending Habits: Average spend per order is modest, but large pizzas
 dominate sales, pointing to group-based consumption.
