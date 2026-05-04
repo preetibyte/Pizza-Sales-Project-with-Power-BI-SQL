@@ -12,7 +12,7 @@ In this pizza sales case study, we dive into the numbers behind the orders, exam
 - Power BI – Data visualization & dashboard creation
 - Excel/CSV – Dataset
 ## Dataset Description  
-The <a href="https://github.com/preetibyte/Pizza-Sales-Project-with-Power-BI-SQL/blob/main/Dataset.xlsx"> Dataset </a> dataset includes:  
+The <a href="https://github.com/preetibyte/Pizza-Sales-Project-with-Power-BI-SQL/blob/main/Dataset.xlsx"> Dataset </a>  includes:  
 - Orders data (date, time, order ID)
 - Pizza details (name, category, size)
 - Order details (quantity, price)
@@ -49,6 +49,8 @@ Key Features:
 - Sales breakdown by category and pizza size
 - Top & bottom-performing pizzas
 - Time-series analysis (daily & monthly trends)
+<img width="3226" height="1809" alt="file-1" src="https://github.com/user-attachments/assets/ec5ead23-e366-406e-ae3f-c7ef7955a6f1" />
+
 - <a href = "https://github.com/preetibyte/Pizza-Sales-Project-with-Power-BI-SQL/blob/main/Pizza_Sales_Home_Dashboard.pdf" > Home Dashboard </a
 👉 (Include dashboard screenshots or GIFs here for stronger impact).
 ## Strategic Insights & Findings
