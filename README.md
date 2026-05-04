@@ -79,13 +79,6 @@ This analysis can help stakeholders:
 4.	Data Modeling (Power BI) 
 5.	Dashboard Development 
 6.	Insight Generation & Storytelling 
-## Key Skills Demonstrated  
-- Advanced SQL (joins, aggregations, window functions)
-- Data modeling and relational schema understanding
-- Data visualization and dashboard design (Power BI)
-- Business insight generation and storytelling
-- Analytical thinking and problem-solving
-- Learned how to convert raw data into business insights 
 ## Learnings and Challenges
 ### Learnings
 1. SQL is powerful for groundwork: Performing calculations in SQL before loading into
